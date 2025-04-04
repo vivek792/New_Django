@@ -1,1 +1,3 @@
-print("hellow world")
+Django==5.1.6
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
